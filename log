@@ -1,0 +1,24 @@
+2019-04-04 12:33:48,696 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:33:48,913 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.216048955917 segundos
+2019-04-04 12:33:58,436 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:33:58,643 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.207289934158 segundos
+2019-04-04 12:33:59,448 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:33:59,659 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.210692882538 segundos
+2019-04-04 12:34:00,452 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:34:00,667 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.214447021484 segundos
+2019-04-04 12:34:10,636 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:34:10,830 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.193388938904 segundos
+2019-04-04 12:34:25,199 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:34:25,412 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.212889909744 segundos
+2019-04-04 12:44:19,633 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:44:19,949 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.315222978592 segundos
+2019-04-04 12:45:54,074  - INFO - Inicio de rsync
+2019-04-04 12:45:54,373  - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.299192905426 segundos
+2019-04-04 12:47:15,329 - %(levelname)s - Inicio de rsync
+2019-04-04 12:47:15,634 - %(levelname)s - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.304572105408 segundos
+2019-04-04 12:47:43,141 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:47:46,156 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 3.01502299309 segundos
+2019-04-04 12:52:11,225 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:52:11,441 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.21600317955 segundos
+2019-04-04 12:52:21,736 - __main__ - INFO - Inicio de rsync
+2019-04-04 12:52:21,948 - __main__ - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.212380170822 segundos
