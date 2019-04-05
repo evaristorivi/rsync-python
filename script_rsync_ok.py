@@ -25,7 +25,7 @@ class bcolors:
 
 
 #Variables
-parser = argparse.ArgumentParser(description='Script - rsync')
+parser = argparse.ArgumentParser(description='Script - rsync || Para Cron: tener previamente un par de claves publica/privada')
 #Parseo de argumentos
 parser.add_argument('-o', '--origen', help='Indica la ubicación a copiar. Tener cuidado con la / final. Por ejemplo: /opt copiará el directorio /opt mientras que /opt/ copiará el contenido de dicho directorio. Ejemplo: -o directorioA/', required=True)
 parser.add_argument('-d', '--destino', help='Indica la ubicación de destino SSH. Si no existe, se creará. Es indiferente la / del final. Ejemplo: -d evaristo@192.168.1.11:~/directorioB/', required=True)

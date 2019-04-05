@@ -303,3 +303,13 @@
 2019-04-05 14:31:59,652 - INFO - Intentando establecer conexión SSH por el puerto 22
 2019-04-05 14:31:59,653 - INFO - Intentando establecer conexión SSH por el puerto 22 ... OK
 2019-04-05 14:31:59,859 - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.206084012985 segundos
+2019-04-05 14:38:54,893 - INFO - detectando rsync ... OK
+2019-04-05 14:38:54,893 - INFO - Inicio de rsync
+2019-04-05 14:38:54,893 - INFO - Intentando establecer conexión SSH por el puerto 22
+2019-04-05 14:38:54,893 - INFO - Intentando establecer conexión SSH por el puerto 22 ... OK
+2019-04-05 14:38:57,381 - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 2.48710012436 segundos
+2019-04-05 14:39:00,983 - INFO - detectando rsync ... OK
+2019-04-05 14:39:00,983 - INFO - Inicio de rsync
+2019-04-05 14:39:00,983 - INFO - Intentando establecer conexión SSH por el puerto 22
+2019-04-05 14:39:00,983 - INFO - Intentando establecer conexión SSH por el puerto 22 ... OK
+2019-04-05 14:39:01,198 - INFO - rsync ha finalizado satisfactoriamente. Tiempo total de transferencia: 0.214202880859 segundos
